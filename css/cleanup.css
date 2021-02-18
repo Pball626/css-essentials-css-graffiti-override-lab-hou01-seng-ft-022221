@@ -1,10 +1,5 @@
  /*write your override styles here */
 .tag-1 {
-    1) css/cleanup.css has overrides added
-     Failure/Error: expect(size).to be > minimum_bytes, "You should have at least 300 bytes worth of updates to css/cleanup.css"
-       You should have at least 300 bytes worth of updates to css/cleanup.css
-     # ./spec/css_graffiti_override_spec.rb:17:in `block (2 levels) in <top (required)>'display: none;
-}
 
 /*#wall .tag-2 {*/
 /*  display: none;*/
