@@ -11,7 +11,7 @@
     display: none;
 }
 
-div#wall #tag-3.slick {
+#wall #tag-3.slick {
     background: url(../images/tag-3.png) no-repeat;
     z-index: 5;
     display: none;
@@ -23,13 +23,13 @@ div#wall #tag-3.slick {
     display: none;
 }
 
-div#wall .parent #tag-5.slick {
+#wall .parent #tag-5.slick {
     background: url(../images/tag-5.png) no-repeat;
     z-index: 3;
     display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+#wall div.parent div > #tag-7.slick {
     background: url(../images/tag-7.png) no-repeat;
     z-index: 1;
     display: none;
